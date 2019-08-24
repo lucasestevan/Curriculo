@@ -18,24 +18,45 @@
 }
 .nome{
     float: left;
-    margin-top: 50px;
-    margin-left: 50px;
-    font-size: 25px;
-}
-.nasc{
-    position: absolute;
-    margin-top: 90px;
-    margin-left: 50px; 
-    font-size: 14px; 
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 26px;
 }
 .titulo1{
     position: absolute;
-    margin-top: 140px;
+    margin-top: 120px;
     margin-left: 30px; 
-    font-size: 12px;
+    font-size: 8px;
     margin-bottom: 0;
 }
-
+.titulo2{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 30px; 
+    font-size: 8px;
+    margin-bottom: 0;
+}
+.titulo3{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 30px; 
+    font-size: 8px;
+    margin-bottom: 0;
+}
+.titulo4{
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 30px; 
+    font-size: 8px;
+    margin-bottom: 0;
+}
+.titulo5{
+    position: absolute;
+    margin-top: 635px;
+    margin-left: 30px; 
+    font-size: 8px;
+    margin-bottom: 0;
+}
 .linhaHR{
     width: 540px;
     margin: 0;
@@ -45,13 +66,6 @@
 }
 .paragrafos{
     margin: 1;
-    font-size: 14px;
-}
-
-.titulo2{
-    position: absolute;
-    margin-top: 340px;
-    margin-left: 30px; 
     font-size: 12px;
 }
   
