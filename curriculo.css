@@ -1,7 +1,57 @@
-.folha{
+.tamanhoFolha{
     width: 595px;
     height: 842px;
-    border: 1px solid red;
+    border: 1px solid rgb(85, 86, 189);
     margin: auto;
     position: relative;
 }
+.estrutura{
+    font-family: Arial, 'Times New Roman';
+}
+.fotoPerfil{
+    width: 130px;
+    height: 130px;
+    float: right;
+    border-radius: 150px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.nome{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.nasc{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 50px; 
+    font-size: 14px; 
+}
+.titulo1{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 30px; 
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.linhaHR{
+    width: 540px;
+    margin: 0;
+    height: px;
+    color: black;
+    background: black;
+}
+.paragrafos{
+    margin: 1;
+    font-size: 14px;
+}
+
+.titulo2{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 30px; 
+    font-size: 12px;
+}
+  
