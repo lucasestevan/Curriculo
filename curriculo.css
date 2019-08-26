@@ -7,6 +7,8 @@
 }
 .estrutura{
     font-family: Arial, 'Times New Roman';
+    text-align: justify;
+    
 }
 .fotoPerfil{
     width: 130px;
@@ -16,6 +18,19 @@
     border: 2px solid black;
     margin: 10px;
 }
+.logoLin{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+.logoGit{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-top: 15px;
+    margin-left: -20px;
+}
+
 .nome{
     float: left;
     margin-top: 60px;
@@ -31,14 +46,14 @@
 }
 .titulo2{
     position: absolute;
-    margin-top: 270px;
+    margin-top: 295px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
 }
 .titulo3{
     position: absolute;
-    margin-top: 365px;
+    margin-top: 380px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
@@ -65,7 +80,8 @@
     background: black;
 }
 .paragrafos{
-    margin: 1;
+    margin-right: 20px;
     font-size: 12px;
+    
 }
   
