@@ -18,16 +18,15 @@
     margin: 10px;
 }
 .logoLin{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     float: left;
 }
 .logoGit{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     float: left;
     margin-top: 15px;
-    margin-left: -20px;
 }
 .nome{
     float: left;
