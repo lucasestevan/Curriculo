@@ -1,6 +1,6 @@
 .tamanhoFolha{
     width: 595px;
-    height: 842px;
+    height: 882px;
     border: 1px solid rgb(85, 86, 189);
     margin: auto;
     position: relative;
@@ -8,7 +8,6 @@
 .estrutura{
     font-family: Arial, 'Times New Roman';
     text-align: justify;
-    
 }
 .fotoPerfil{
     width: 130px;
@@ -30,7 +29,6 @@
     margin-top: 15px;
     margin-left: -20px;
 }
-
 .nome{
     float: left;
     margin-top: 60px;
@@ -46,28 +44,28 @@
 }
 .titulo2{
     position: absolute;
-    margin-top: 295px;
+    margin-top: 320px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
 }
 .titulo3{
     position: absolute;
-    margin-top: 380px;
+    margin-top: 415px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
 }
 .titulo4{
     position: absolute;
-    margin-top: 470px;
+    margin-top: 510px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
 }
 .titulo5{
     position: absolute;
-    margin-top: 635px;
+    margin-top: 695px;
     margin-left: 30px; 
     font-size: 8px;
     margin-bottom: 0;
@@ -82,6 +80,6 @@
 .paragrafos{
     margin-right: 20px;
     font-size: 12px;
-    
+    line-height: 1.5;
 }
   
